@@ -1,0 +1,3 @@
+GET /resoluciones/*             -   Listar Todos
+GET /resoluciones/{n}           -   Listar Resolucion "n"
+ 
